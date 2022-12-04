@@ -238,7 +238,9 @@ nav ul {
 }
 
 .travelly,
-.elena {
+.elena,
+.crypto,
+.hotel {
   flex: 1 1 40rem;
   display: flex;
   justify-content: center;

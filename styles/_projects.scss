@@ -11,7 +11,15 @@
 }
 
 .travelly,
-.elena {
+.elena,
+.crypto,
+.hotel {
   flex: 1 1 40rem;
   @include flex(center, center, column);
 }
+
+// a {
+//   display: flex;
+//   align-items: center;
+//   justify-content: center;
+// }
