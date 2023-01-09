@@ -241,6 +241,7 @@ nav ul {
 .elena,
 .crypto,
 .hotel {
+  margin-bottom: 3rem;
   flex: 1 1 40rem;
   display: flex;
   justify-content: center;
